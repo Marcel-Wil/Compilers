@@ -23,9 +23,6 @@ Done by Marceli Wilczynski && Elias El Bouzidi <br>
 5. [Project 3](#Project3)
 6. [Mips](#Mips)
 
-## Installation
-> git clone https://github.com/Marcel-aka-Satum/Compilers.git
-
 ## Documentation
 ## Main.py
 ```
